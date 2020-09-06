@@ -1,4 +1,4 @@
-# Create robot control panel.
+# Create robot control panel application.
 
 I created a web page in HTML format containing a control panel (controller) for the robot, then I created a mobile application linked to the web page to control the robot using the phone.
 
